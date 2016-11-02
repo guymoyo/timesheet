@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ded84233-1127-4c1b-815a-bef7750a0f0e" name="Default" comment="" />
+    <list default="true" id="ded84233-1127-4c1b-815a-bef7750a0f0e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Dump20161101.sql" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ajax.php" afterPath="$PROJECT_DIR$/ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css" afterPath="$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css" />
+    </list>
     <ignored path="timesheet.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,11 +29,9 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
+            <state relative-caret-position="435">
               <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-              <folding>
-                <element signature="e#1628#1635#0#HTML" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -36,29 +39,29 @@
       <file leaf-file-name="timesheet.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/timesheet.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
+            <state relative-caret-position="1575">
               <caret line="105" column="78" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="78" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ajax.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+            <state relative-caret-position="15">
+              <caret line="27" column="0" selection-start-line="25" selection-start-column="36" selection-end-line="27" selection-end-column="5" />
               <folding>
-                <marker date="1478002791215" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
-                <marker date="1478002791215" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
-                <marker date="1478002791215" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
-                <marker date="1478002791215" expanded="true" signature="1332:1428" ph="UPDATE times... " />
-                <marker date="1478002791215" expanded="true" signature="1332:1438" ph="UPDATE times... " />
-                <marker date="1478002791215" expanded="true" signature="1332:1458" ph="UPDATE times... " />
-                <marker date="1478002791215" expanded="true" signature="1332:1474" ph="UPDATE times... " />
-                <marker date="1478002791215" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
-                <marker date="1478002791215" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
-                <marker date="1478002791215" expanded="true" signature="3378:3474" ph="SELECT id, u... timesheet" />
+                <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+                <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+                <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+                <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+                <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+                <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+                <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+                <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+                <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+                <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
               </folding>
             </state>
           </provider>
@@ -67,18 +70,18 @@
       <file leaf-file-name="fullcalendar.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+            <state relative-caret-position="250">
+              <caret line="781" column="27" selection-start-line="781" selection-start-column="27" selection-end-line="781" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fullcalendar.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="fullcalendar.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2520">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="13">
+              <caret line="12836" column="13" selection-start-line="12836" selection-start-column="7" selection-end-line="12836" selection-end-column="13" />
               <folding>
                 <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
                 <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
@@ -97,14 +100,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/timesheet.js" />
-        <option value="$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/timesheet.js" />
         <option value="$PROJECT_DIR$/ajax.php" />
+        <option value="$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css" />
       </list>
     </option>
   </component>
@@ -145,8 +151,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -193,7 +197,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="fullcalendar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,33 +215,7 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="timesheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="timesheet" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bower_components" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
+              <option name="myItemId" value="fullcalendar" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -247,6 +225,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -319,12 +299,15 @@
       <workItem from="1477638914936" duration="8910000" />
       <workItem from="1477648950003" duration="13718000" />
       <workItem from="1477911112685" duration="2754000" />
-      <workItem from="1477993295878" duration="9172000" />
+      <workItem from="1477993295878" duration="9771000" />
+      <workItem from="1478070494855" duration="37000" />
+      <workItem from="1478071367321" duration="529000" />
+      <workItem from="1478072285378" duration="1259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34554000" />
+    <option name="totallyTimeSpent" value="36978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1366" height="744" extended-state="0" />
@@ -386,11 +369,174 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timesheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="78" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="378027:378044" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timesheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="78" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="378027:378044" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/timesheet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="105" column="78" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="378027:378044" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="75" selection-start-line="4" selection-start-column="75" selection-end-line="4" selection-end-column="75" />
-          <folding>
-            <element signature="e#1628#1635#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -407,16 +553,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1478002791215" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
-            <marker date="1478002791215" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
-            <marker date="1478002791215" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1332:1428" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1438" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1458" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1474" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="3378:3474" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
           </folding>
         </state>
       </provider>
@@ -425,9 +571,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding>
-            <element signature="e#1628#1635#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -444,16 +588,16 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1478002791215" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
-            <marker date="1478002791215" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
-            <marker date="1478002791215" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1332:1428" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1438" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1458" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1474" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="3378:3474" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
           </folding>
         </state>
       </provider>
@@ -462,9 +606,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="56" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="56" />
-          <folding>
-            <element signature="e#1628#1635#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -473,16 +615,16 @@
         <state relative-caret-position="900">
           <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
           <folding>
-            <marker date="1478002791215" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
-            <marker date="1478002791215" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
-            <marker date="1478002791215" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1332:1428" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1438" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1458" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1474" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="3378:3474" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
           </folding>
         </state>
       </provider>
@@ -499,47 +641,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/timesheet.js" />
-    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2520">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
-            <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
-            <marker date="1477639940000" expanded="true" signature="378027:378044" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/dist/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2641">
           <caret line="917" column="19" selection-start-line="917" selection-start-column="14" selection-end-line="917" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
+        <state relative-caret-position="435">
           <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="e#1628#1635#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/timesheet.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
+        <state relative-caret-position="1575">
           <caret line="105" column="78" selection-start-line="105" selection-start-column="78" selection-end-line="105" selection-end-column="78" />
           <folding />
         </state>
@@ -547,19 +666,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ajax.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="76" column="28" selection-start-line="76" selection-start-column="28" selection-end-line="76" selection-end-column="28" />
+        <state relative-caret-position="15">
+          <caret line="27" column="0" selection-start-line="25" selection-start-column="36" selection-end-line="27" selection-end-column="5" />
           <folding>
-            <marker date="1478002791215" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
-            <marker date="1478002791215" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
-            <marker date="1478002791215" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1332:1428" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1438" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1458" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1332:1474" ph="UPDATE times... " />
-            <marker date="1478002791215" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
-            <marker date="1478002791215" expanded="true" signature="3378:3474" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="562:682" ph="INSERT INTO ${$sql}" />
+            <marker date="1478071802677" expanded="true" signature="634:682" ph="INSERT INTO timesheet... " />
+            <marker date="1478071802677" expanded="true" signature="931:1018" ph="SELECT start... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1332:1428" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1438" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1458" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1332:1474" ph="UPDATE times... " />
+            <marker date="1478071802677" expanded="true" signature="1777:1903" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="1777:1923" ph="SELECT id, u... timesheet" />
+            <marker date="1478071802677" expanded="true" signature="3436:3532" ph="SELECT id, u... timesheet" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="781" column="27" selection-start-line="781" selection-start-column="27" selection-end-line="781" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/fullcalendar/dist/fullcalendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="12836" column="13" selection-start-line="12836" selection-start-column="7" selection-end-line="12836" selection-end-column="13" />
+          <folding>
+            <marker date="1477639940000" expanded="true" signature="172146:172159" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="302545:302551" ph=" " />
+            <marker date="1477639940000" expanded="true" signature="378027:378044" ph="..." />
           </folding>
         </state>
       </provider>

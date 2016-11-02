@@ -74,7 +74,7 @@ if (isset($_POST['action']) && $_POST['action'] == "search") {
             $dt2format=date("H:i",strtotime($row["end_datime"]));
         }else{
             $hour=0;
-            $dt2format="null";
+            $dt2format="";
         }
         $title =  " - ". $dt2format ."(". $hour ." h)";
 
@@ -89,6 +89,7 @@ if (isset($_POST['action']) && $_POST['action'] == "search") {
         $url = $url."end datetime: ".$row["end_datime"]."</br></br>";
         $url = $url."start computer info: ".$row["start_info"]."</br></br>";
         $url = $url."end computer info: ".$row["end_info"]."</br></br>";
+        $url = $url."country: ".$row["country"]."</br></br>";
         $url = $url."connexion time: ".$row["connexion_time"]."</br></br>";
         $url = $url."timestamp: ".$row["timestamp"];
 

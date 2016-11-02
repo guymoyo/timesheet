@@ -391,6 +391,7 @@ hr.fc-divider {
 	vertical-align: top;
 }
 
+
 .fc td.fc-today {
 	border-style: double; /* overcome neighboring borders */
 }
@@ -775,6 +776,10 @@ a.fc-more:hover {
 
 .fc-day-grid .fc-row {
 	z-index: 1; /* make the "more" popover one higher than this */
+}
+
+.fc-row{
+	height: auto!important;
 }
 
 .fc-more-popover {
