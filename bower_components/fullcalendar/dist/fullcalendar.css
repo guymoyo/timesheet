@@ -778,9 +778,6 @@ a.fc-more:hover {
 	z-index: 1; /* make the "more" popover one higher than this */
 }
 
-.fc-row{
-	height: auto!important;
-}
 
 .fc-more-popover {
 	z-index: 2;

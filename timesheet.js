@@ -7,6 +7,7 @@ $(function() {
                 center: 'title',
                 right: 'month,agendaWeek,agendaDay,listWeek'
             },
+            height: 450,
             editable: true,
             eventLimit: true, // allow "more" link when too many events
             navLinks: true,
